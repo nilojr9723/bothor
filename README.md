@@ -1,0 +1,2 @@
+# bothor
+bot inspiration
